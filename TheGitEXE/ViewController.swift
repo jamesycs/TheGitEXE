@@ -15,6 +15,7 @@ class ViewController: UIViewController {
 		// Do any additional setup after loading the view, typically from a nib.
 		print("HI_conflict123_change2")
 		rint("HI2")
+		Print("V")
 	}
 
 	override func didReceiveMemoryWarning() {
