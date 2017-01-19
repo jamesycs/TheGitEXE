@@ -13,9 +13,12 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
 		print("BIM""sadsadasd")
+=======
 		print("BIM")
 		saklaka
+>>>>>>> origin/master
 		rint("HI2")
 		Print("V")
 		Print("V")
