@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
-		print("HI_conflict123")
+		print("HI_conflict123_change2")
 		rint("HI2")
 	}
 
